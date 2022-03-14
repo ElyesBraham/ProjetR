@@ -22,6 +22,9 @@ __licence__ ="This program is free software: you can redistribute it and/or modi
         along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 L'objectif est de remplir une grille 9x9 avec des chiffres  de 1 à 9 de sorte que chaque colonne, chaque ligne et diagonale des 9 sous-grilles de 3x3 qui composent la grille.
+
 Installer le package :
+
 library(devtools)
+
 devtools::install_github("NinaMarthe/ProjetR")
