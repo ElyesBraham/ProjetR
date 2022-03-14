@@ -79,7 +79,7 @@ if (interactive()) {
 
     #Générer la solution du Sudoku
     observeEvent(input$solve,{
-      solution_sudoku <- sudoku_solver(grille) # fonction a changer
+      solution_sudoku <- sudoku_solver(grille) 
       output$plot_solve_sudoku <- renderPlot({plot(solution_sudoku)})
     })
 
