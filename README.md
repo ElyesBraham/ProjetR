@@ -3,9 +3,13 @@ Bonjour ! Voici une brève description de notre projet R de l’UE HAX815X
 Ce projet a pour but de générer aléatoirement des grilles de Sudoku complètes  et incomplètes associées à un niveau de difficulté , ainsi que de résoudre des grilles de Sudoku incomplètes 
 
 __authors__ = ("Nina MARTHE", "Elyes BRAHAM")
+
 __contact__ = ("nina.marthe@etu.umontpellier.fr","elyes.braham@etu.umontpellier.fr")
+
 __version__ = "0.0.1"
+
 __date__ = "14/03/2022"
+
 __licence__ ="This program is free software: you can redistribute it and/or modify"
         under the terms of the GNU General Public License as published by
         the Free Software Foundation, either version 3 of the License, or
